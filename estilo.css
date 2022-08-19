@@ -1,0 +1,22 @@
+*{
+    text-align: center;
+    font-size: 14pt;
+    background-color: #09BC8A;
+}
+
+h1{
+    font-size: 25pt;
+}
+
+h2{
+    font-size: 20pt;
+}
+
+h3{
+    font-size: 15pt;
+}
+
+#informacion *{
+    text-align: center;
+}
+
